@@ -1,0 +1,19 @@
+.card__container {
+  width: 90%;
+  margin: 0 auto;
+
+  height: fit-content;
+}
+
+.card__container h1 {
+  font-size: 25px;
+  margin-left: 8px;
+}
+
+.card__container-carousel {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  width: 100%;
+  display: flex;
+}
